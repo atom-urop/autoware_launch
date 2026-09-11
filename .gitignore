@@ -1,3 +1,8 @@
 #prettier
 node_modules/
 .vscode/
+
+# ROS 2 / colcon
+build/
+install/
+log/
