@@ -18,8 +18,8 @@
     k_gain1: 3.0
     k_soft: 1.5
     k_gain2: 1.0
-    tau_max: 0.27
-    d0: 0.3
+    tau_max: 1.1
+    d0: 3.0
 
     # k_ref-rr LUT --
     k_ref_LUT:
